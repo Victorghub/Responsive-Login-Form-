@@ -75,7 +75,7 @@ html,body {
 .wrapper form .pass {
     justify-content: center;
     display: flex;
-    padding-top: 5px;
+    padding-top: 1px;
 }
 
 .wrapper form .pass a {
